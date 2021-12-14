@@ -1,2 +1,10 @@
+.bsp/
+.idea/
+.vscode/
+null/
+project/
+target/
 *.class
 *.log
+hs_err_pid*
+*~
